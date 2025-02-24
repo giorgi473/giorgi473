@@ -5,7 +5,7 @@ FullStack Developer
 🚀 About Me:
 - 🏗 I’m Full-Stack Developer
 - 🏗 All of my projects are available at **[My Portfolio](https://your-portfolio.com)**  
-- 💬 Ask me about **React, Next, Node nest**  
+- 💬 Ask me about **React, Next, Node, Nest**  
 - 📬 How to reach me **giorgikavtaradze@gmail.com**
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/yourprofile)

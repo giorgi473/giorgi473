@@ -21,6 +21,7 @@ FullStack Developer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40" height="40" alt="Tailwind CSS" />
   <img src="https://raw.githubusercontent.com/shadcn-ui/ui/main/apps/www/public/favicon.ico" width="40" height="40" alt="ShadCN/UI" />
+  <img src="redux.png" alt="Magic UI" width="40" height="40"/>
   <img src="166878038.png" alt="Magic UI" width="40" height="40"/>
   <img src="motion.png" alt="Magic UI" width="40" height="40"/>
   <img src="clerk.avif" alt="Ckerk" width="40" height="40"/>

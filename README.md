@@ -25,7 +25,8 @@ FullStack Developer
   <img src="166878038.png" alt="Magic UI" width="40" height="40"/>
   <img src="motion.png" alt="Magic UI" width="40" height="40"/>
   <img src="clerk.avif" alt="Ckerk" width="40" height="40"/>
-  <img src="nodejs.png" alt="Ckerk" width="40" height="40"/>
+<!--   <img src="nodejs.png" alt="Ckerk" width="40" height="40"/> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
   <img src="neon.jpg" alt="Ckerk" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />

@@ -21,14 +21,14 @@ FullStack Developer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40" height="40" alt="Tailwind CSS" />
   <img src="https://raw.githubusercontent.com/shadcn-ui/ui/main/apps/www/public/favicon.ico" width="40" height="40" alt="ShadCN/UI" />
-<!--   <img src="redux.png" alt="Magic UI" width="40" height="40"/> -->
+  <img src="redux.png" alt="Magic UI" width="40" height="40"/>
   <img src="166878038.png" alt="Magic UI" width="40" height="40"/>
   <img src="motion.png" alt="Magic UI" width="40" height="40"/>
+  <img src="sanity.png" alt="Ckerk" width="37" height="37"/>
   <img src="clerk.avif" alt="Ckerk" width="40" height="40"/>
   <img src="nodejs.png" alt="Ckerk" width="40" height="40"/>
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
   <img src="neon.jpg" alt="Ckerk" width="40" height="40"/>
- <img src="sanity.png" alt="Ckerk" width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
 </p>

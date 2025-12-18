@@ -22,12 +22,13 @@ FullStack Developer
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40" height="40" alt="Tailwind CSS" />
   <img src="shadcn2.png" width="40" height="40" alt="ShadCN/UI" />
   <img src="redux.png" alt="Magic UI" width="40" height="40"/>
+  <img src="icon.png" alt="Magic UI" width="40" height="40"/>
   <img src="166878038.png" alt="Magic UI" width="40" height="40"/>
   <img src="motion.png" alt="Magic UI" width="40" height="40"/>
   <img src="sanity.png" alt="Ckerk" width="39" height="39"/>
   <img src="clerk.avif" alt="Ckerk" width="40" height="40"/>
   <img src="nodejs.png" alt="Ckerk" width="40" height="40"/>
- <img src="NestJS.svg" alt="Nest" width="40" height="40"/>
+  <img src="NestJS.svg" alt="Nest" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
   <img src="neon.jpg" alt="Ckerk" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />

@@ -28,7 +28,7 @@ FullStack Developer
   <img src="motion.png" alt="Magic UI" width="40" height="40"/>
   <img src="sanity.png" alt="Ckerk" width="39" height="39"/>
   <img src="clerk.avif" alt="Ckerk" width="40" height="40"/>
-  <img src="g.png" alt="Convex" width="40" height="40"/>
+  <img src="g.png" alt="Convex" width="40" height="38"/>
   <img src="nodejs.png" alt="Ckerk" width="40" height="40"/>
   <img src="NestJS.svg" alt="Nest" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />

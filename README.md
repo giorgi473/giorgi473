@@ -29,6 +29,7 @@ FullStack Developer
   <img src="sanity.png" alt="sanity" width="39" height="39"/>
   <img src="clerk.avif" alt="Ckerk" width="40" height="40"/>
   <img src="g.png" alt="Convex" width="40" height="38"/>
+  <img src="supabase.png" alt="supabase" width="40" height="40"/>
   <img src="nodejs.png" alt="node.js" width="40" height="40"/>
   <img src="NestJS.svg" alt="Nest" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />

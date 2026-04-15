@@ -15,7 +15,7 @@ FullStack Developer
  
 ### 🛠 Languages and Tools:
 <p>
-  <img src="javascript.png" width="40" height="40" alt="JavaScript" />
+  <img src="javascript.png" width="42" height="42" alt="JavaScript" />
   <img src="typescript.png" width="40" height="40" alt="TypeScript" />
   <img src="reactjs.png" width="40" height="40" alt="React" />
   <img src="nextjs.png" width="40" height="40" alt="Next.js" />
@@ -35,5 +35,5 @@ FullStack Developer
   <img src="NestJS.svg" alt="Nest" width="40" height="40"/>
   <img src="mongo.png" width="40" height="40" alt="MongoDB" />
   <img src="neon.jpg" alt="neon" width="40" height="40"/>
-  <img src="doker.png" width="40" height="40" alt="Docker" />
+  <img src="docker.png" width="40" height="40" alt="Docker" />
 </p>

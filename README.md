@@ -18,7 +18,7 @@ FullStack Developer
   <img src="javascript.png" width="40" height="40" alt="JavaScript" />
   <img src="typescript.png" width="40" height="40" alt="TypeScript" />
   <img src="reactjs.png" width="40" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
+  <img src="nextjs.png" width="40" height="40" alt="Next.js" />
   <img src="tailwind.png" width="40" height="40" alt="Tailwind CSS" />
   <img src="shadcn2.png" width="40" height="40" alt="ShadCN/UI" />
   <img src="redux.png" alt="redux" width="40" height="40"/>

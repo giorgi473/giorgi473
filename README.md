@@ -15,7 +15,7 @@ FullStack Developer
  
 ### 🛠 Languages and Tools:
 <p>
-  <img src="js.webp" width="45" height="45" alt="JavaScript" />
+  <img src="js.webp" width="45" height="40" alt="JavaScript" />
   <img src="ts.png" width="38" height="38" alt="TypeScript" />
   <img src="reactjs.png" width="38" height="38" alt="React" />
   <img src="nextjs.png" width="40" height="40" alt="Next.js" />

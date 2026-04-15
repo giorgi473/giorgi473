@@ -16,7 +16,7 @@ FullStack Developer
 ### 🛠 Languages and Tools:
 <p>
   <img src="javascript.png" width="42" height="42" alt="JavaScript" />
-  <img src="typescript.png" width="40" height="40" alt="TypeScript" />
+  <img src="typescript.png" width="42" height="42" alt="TypeScript" />
   <img src="reactjs.png" width="40" height="40" alt="React" />
   <img src="nextjs.png" width="40" height="40" alt="Next.js" />
   <img src="tailwind.png" width="40" height="40" alt="Tailwind CSS" />

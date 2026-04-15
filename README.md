@@ -35,5 +35,5 @@ FullStack Developer
   <img src="NestJS.svg" alt="Nest" width="40" height="40"/>
   <img src="mongo.png" width="40" height="40" alt="MongoDB" />
   <img src="neon.jpg" alt="neon" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+  <img src="doker.png" width="40" height="40" alt="Docker" />
 </p>

@@ -25,11 +25,11 @@ FullStack Developer
   <img src="shadcn2.png" width="40" height="40" alt="ShadCN/UI" />
   <img src="redux.png" alt="redux" width="40" height="40"/>
   <img src="icon.png" alt="zustand" width="43" height="43"/>
+  <img src="nuqs.svg" alt="nuqs" width="40" height="40"/>
   <img src="three2.png" alt="three.js" width="40" height="40"/>
   <img src="166878038.png" alt="Magic UI" width="40" height="40"/>
   <img src="motion.png" alt="motion" width="40" height="40"/>
   <img src="gsap.jpg" alt="gsap" width="40" height="40"/>
-  <img src="nuqs.svg" alt="nuqs" width="40" height="40"/>
   <img src="clerk.avif" alt="Ckerk" width="40" height="40"/>
   <img src="sanity.png" alt="sanity" width="39" height="39"/>
   <img src="g.png" alt="Convex" width="40" height="38"/>
